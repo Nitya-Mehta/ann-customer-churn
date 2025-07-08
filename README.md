@@ -2,7 +2,7 @@
 
 This project uses an Artificial Neural Network (ANN) to predict whether a customer is likely to churn based on demographic and account-related features. It includes a trained model and a Streamlit web app for making live predictions.
 
-🔗 **Live App**: [Open on Streamlit](https://ann-customer-churn-kkxcgp3sww3qkpfwczmqud.streamlit.app/)
+🔗 **Live App**: [Open on Streamlit](https://ann-customerchurn.streamlit.app/)
 
 ---
 
